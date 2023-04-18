@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manuel Valdebenito</h1>
 <h3 align="center">A passionate frontend developer from Chile.</h3>
 
-- 🌱 I’m currently learning **Next.js, Nest.js, mongodb, Stable Diffusion**
+- 🌱 I’m currently learning: **Next.js, Nest.js, mongodb, Stable Diffusion**
 
-- 👨‍💻 All of my projects are available at In progress 73% ███████▒▒▒
+- 👨‍💻 All of my projects are available at: In progress 73% ███████▒▒▒
 
-- 📝 I regularly write articles on In progress 10% █▒▒▒▒▒▒▒▒▒
+- 📝 I regularly write articles on: In progress 10% █▒▒▒▒▒▒▒▒▒
 
-- 💬 Ask me about **React**
+- 💬 Ask me about: **React**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manuel-valdebenito-2b1975176/](https://www.linkedin.com/in/manuel-valdebenito-2b1975176/)
+- 📄 Know about my experiences: https://www.linkedin.com/in/manuel-valdebenito-2b1975176/
 
 - ⚡ Fun fact **I think Im Funny**
 
