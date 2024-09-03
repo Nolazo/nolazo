@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Valdebenito</h1>
 <h3 align="center">A passionate frontend developer from Chile.</h3>
 
-- 🌱 I’m currently learning: **Next.js, Nest.js, mongodb, Stable Diffusion**
+- 🌱 I’m currently learning: **SQL, seaborn, python, mongodb, Stable Diffusion**
 
 <!-- #- 👨‍💻 All of my projects are available at: In progress 73% ███████▒▒▒ -->
 
