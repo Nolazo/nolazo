@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning: **Next.js, Nest.js, mongodb, Stable Diffusion**
 
-- 👨‍💻 All of my projects are available at: In progress 73% ███████▒▒▒
+#- 👨‍💻 All of my projects are available at: In progress 73% ███████▒▒▒
 
-- 📝 I regularly write articles on: In progress 10% █▒▒▒▒▒▒▒▒▒
+#- 📝 I regularly write articles on: In progress 10% █▒▒▒▒▒▒▒▒▒
 
-- 💬 Ask me about: **React**
+- 💬 Ask me about: **Excel**
 
 - 📄 Know about my experiences: https://www.linkedin.com/in/manuel-valdebenito-2b1975176/
 
-- ⚡ Fun fact **I think Im Funny**
+- ⚡ Fun fact **😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
