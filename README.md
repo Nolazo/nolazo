@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning: **Next.js, Nest.js, mongodb, Stable Diffusion**
 
-#- 👨‍💻 All of my projects are available at: In progress 73% ███████▒▒▒
+<!-- #- 👨‍💻 All of my projects are available at: In progress 73% ███████▒▒▒ -->
 
-#- 📝 I regularly write articles on: In progress 10% █▒▒▒▒▒▒▒▒▒
+<!--#- 📝 I regularly write articles on: In progress 10% █▒▒▒▒▒▒▒▒▒ -->
 
 - 💬 Ask me about: **Excel**
 
